@@ -1,0 +1,8 @@
+Binary_Classification_LSTM:
+
+             precision    recall  f1-score   
+        0       0.99      0.99      0.99     
+        1       0.96      0.94      0.95      
+
+accuracy  : 0.98     
+ 
